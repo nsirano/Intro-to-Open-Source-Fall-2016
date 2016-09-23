@@ -1,0 +1,15 @@
+Index: books/handbook/firewalls/chapter.xml
+===================================================================
+--- books/handbook/firewalls/chapter.xml	(revision 49425)
++++ books/handbook/firewalls/chapter.xml	(working copy)
+@@ -1525,9 +1525,7 @@
+ 	<programlisting>scrub in all</programlisting>
+ 
+ 	<para>Some services, such as <acronym>NFS</acronym>, require
+-	  specific fragment handling options.  Refer to <link
+-	      xlink:href="http://www.openbsd.gr/faq/pf/scrub.html">http://www.openbsd.gr/faq/pf/scrub.html</link>
+-	  for more information.</para>
++	  specific fragment handling options.
+ 
+ 	<para>This example reassembles fragments, clears the
+ 	  <quote>do not fragment</quote> bit, and sets the maximum
