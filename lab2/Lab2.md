@@ -20,7 +20,7 @@
 
 # 08. I chose the MIT License.
 
-# 09.
+# 09. I have not decided on the specifics of my project yet, but I intend to create a project using the MIT License so the users have the most freedom to use the software however they choose.
 
 # 10.
 Website | License Present | License
