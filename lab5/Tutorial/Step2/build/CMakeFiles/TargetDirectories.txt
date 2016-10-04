@@ -1,0 +1,6 @@
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/CMakeFiles/edit_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/CMakeFiles/rebuild_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/CMakeFiles/Tutorial.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
