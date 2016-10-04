@@ -1,0 +1,50 @@
+Determining if the function log exists failed with the following output:
+Change Dir: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b80b5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b80b5.dir/build.make CMakeFiles/cmTC_b80b5.dir/build
+make[1]: Entering directory '/media/nick/06C41F65C41F55F1/Users/Nick/MEGA/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b80b5.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=log   -o CMakeFiles/cmTC_b80b5.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘log’
+/usr/share/cmake-3.5/Modules/CheckFunctionExists.c:6:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTC_b80b5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b80b5.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log    CMakeFiles/cmTC_b80b5.dir/CheckFunctionExists.c.o  -o cmTC_b80b5 -rdynamic 
+CMakeFiles/cmTC_b80b5.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `log'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_b80b5.dir/build.make:97: recipe for target 'cmTC_b80b5' failed
+make[1]: *** [cmTC_b80b5] Error 1
+make[1]: Leaving directory '/media/nick/06C41F65C41F55F1/Users/Nick/MEGA/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b80b5/fast' failed
+make: *** [cmTC_b80b5/fast] Error 2
+
+
+Determining if the function exp exists failed with the following output:
+Change Dir: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_220d3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_220d3.dir/build.make CMakeFiles/cmTC_220d3.dir/build
+make[1]: Entering directory '/media/nick/06C41F65C41F55F1/Users/Nick/MEGA/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_220d3.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=exp   -o CMakeFiles/cmTC_220d3.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function ‘exp’
+/usr/share/cmake-3.5/Modules/CheckFunctionExists.c:6:6: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTC_220d3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_220d3.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=exp    CMakeFiles/cmTC_220d3.dir/CheckFunctionExists.c.o  -o cmTC_220d3 -rdynamic 
+CMakeFiles/cmTC_220d3.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x15): undefined reference to `exp'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_220d3.dir/build.make:97: recipe for target 'cmTC_220d3' failed
+make[1]: *** [cmTC_220d3] Error 1
+make[1]: Leaving directory '/media/nick/06C41F65C41F55F1/Users/Nick/MEGA/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step6/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_220d3/fast' failed
+make: *** [cmTC_220d3/fast] Error 2
+
+
