@@ -1,0 +1,128 @@
+Start testing: Oct 04 13:17 EDT
+----------------------------------------------------------
+1/7 Testing: TutorialRuns
+1/7 Test: TutorialRuns
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "25"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialRuns" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TutorialRuns" end time: Oct 04 13:17 EDT
+"TutorialRuns" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: TutorialUsage
+2/7 Test: TutorialUsage
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialUsage" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial Version 1.0
+Usage: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial number
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[Usage:.*number
+]
+"TutorialUsage" end time: Oct 04 13:17 EDT
+"TutorialUsage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: TutorialComp4
+3/7 Test: TutorialComp4
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "4"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialComp4" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of 4 is 2
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[The square root of 4 is 2
+]
+"TutorialComp4" end time: Oct 04 13:17 EDT
+"TutorialComp4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: TutorialComp9
+4/7 Test: TutorialComp9
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "9"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialComp9" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of 9 is 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[The square root of 9 is 3
+]
+"TutorialComp9" end time: Oct 04 13:17 EDT
+"TutorialComp9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: TutorialComp25
+5/7 Test: TutorialComp25
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "25"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialComp25" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of 25 is 5
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[The square root of 25 is 5
+]
+"TutorialComp25" end time: Oct 04 13:17 EDT
+"TutorialComp25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: TutorialComp-25
+6/7 Test: TutorialComp-25
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "-25"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialComp-25" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of -25 is 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[The square root of -25 is 0
+]
+"TutorialComp-25" end time: Oct 04 13:17 EDT
+"TutorialComp-25" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: TutorialComp0.0001
+7/7 Test: TutorialComp0.0001
+Command: "/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build/Tutorial" "0.0001"
+Directory: /home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step3/build
+"TutorialComp0.0001" start time: Oct 04 13:17 EDT
+Output:
+----------------------------------------------------------
+The square root of 0.0001 is 0.01
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Pass Reason:
+Required regular expression found.Regex=[The square root of 0.0001 is 0.01
+]
+"TutorialComp0.0001" end time: Oct 04 13:17 EDT
+"TutorialComp0.0001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 04 13:17 EDT
