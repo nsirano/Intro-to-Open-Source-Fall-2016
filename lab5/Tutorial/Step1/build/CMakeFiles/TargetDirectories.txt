@@ -1,0 +1,3 @@
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step1/build/CMakeFiles/edit_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step1/build/CMakeFiles/rebuild_cache.dir
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/Step1/build/CMakeFiles/Tutorial.dir
