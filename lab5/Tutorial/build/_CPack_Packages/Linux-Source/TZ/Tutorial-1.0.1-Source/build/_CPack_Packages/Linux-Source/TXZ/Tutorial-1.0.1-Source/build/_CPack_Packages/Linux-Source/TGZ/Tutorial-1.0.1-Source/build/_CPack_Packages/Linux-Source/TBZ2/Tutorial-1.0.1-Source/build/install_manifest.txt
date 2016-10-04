@@ -1,0 +1,4 @@
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/build/_CPack_Packages/Linux/TZ/Tutorial-1.0.1-Linux/bin/Tutorial
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/build/_CPack_Packages/Linux/TZ/Tutorial-1.0.1-Linux/include/TutorialConfig.h
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/build/_CPack_Packages/Linux/TZ/Tutorial-1.0.1-Linux/bin/libMathFunctions.a
+/home/nick/School/Open_Source/Labs/My_Labs--CSCI2961_Fall_2016/lab5/Tutorial/build/_CPack_Packages/Linux/TZ/Tutorial-1.0.1-Linux/include/MathFunctions.h
