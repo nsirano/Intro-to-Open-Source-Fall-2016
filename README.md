@@ -1,1 +1,2 @@
-# Intro-to-Open-Source-Fall-2016
+Intro to Open Source - Fall 2016
+# Nick Sirano
